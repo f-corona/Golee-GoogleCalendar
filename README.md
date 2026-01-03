@@ -30,8 +30,8 @@ Lo script scansiona il contenuto nel blocco `__NEXT_DATA__` della pagina. Per og
 {
   "id": "ID_EVENTO",            // Identificativo dell'evento, fondamentale per le modifiche
   "title": "TITOLO_EVENTO",     // Titolo visualizzato
-  "start": "DATA",              // Timestamp ISO inizio
-  "end": "DATA",               // Timestamp ISO fine
+  "start": "DATA",              // Timestamp inizio
+  "end": "DATA",               // Timestamp fine
   "place": "LUOGO",             // Luogo dell'evento (se presente)
   "description": "Descrizione", // Note o dettagli aggiuntivi
   "updatedAt": "DATA"           // Timestamp dell'ultima modifica
