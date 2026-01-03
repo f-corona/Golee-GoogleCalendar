@@ -63,3 +63,5 @@ Nel nostro caso:
 8. alla prima esecuzione, Google segnalerà che lo script non è sicuro e chiederà una serie di autorizzazioni. Dovete acconsentire a tutto.
 9. Verificare che sul calendario siano usciti gli eventi. Nella console in basso appariranno eventuali errori o messaggi di successo.
    
+### Automazione
+Lo script può essere eseguito in automatico tramite gli strumenti google o altri strumenti. Queste funzioni saranno implementate o spiegate in futuro.
