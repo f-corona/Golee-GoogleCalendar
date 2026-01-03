@@ -61,7 +61,8 @@ Nel nostro caso:
 6. salvare il progetto cliccando sull'icona del floppy sulla barra centrale
 7. eseguire lo script cliccando su esegui. (NON SU ESEGUI DEPLOYMENT)
 8. alla prima esecuzione, Google segnalerà che lo script non è sicuro e chiederà una serie di autorizzazioni. Dovete acconsentire a tutto.
-9. Verificare che sul calendario siano usciti gli eventi. Nella console in basso appariranno eventuali errori o messaggi di successo.
+9. Si aprirà una pagina che dirà che `Google non ha verificato questa app`. Cliccare su `Avanzate` e poi proseguire comunque (ho dimenticato cosa c'è scritto perdonatemi)
+10. Verificare che sul calendario siano usciti gli eventi. Nella console in basso appariranno eventuali errori o messaggi di successo.
    
 ### Automazione
 Lo script può essere eseguito in automatico tramite gli strumenti google o altri strumenti. Queste funzioni saranno implementate o spiegate in futuro.
