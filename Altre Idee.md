@@ -9,3 +9,12 @@ Unico dubbio sulla visibilità: meglio pubblica (tutti possono vedere gli oggett
 ### Contatore KM percorsi per i rimborsi
 Molte società effettuano le trasferte con auto personali, è possibile stilare i km di questi rimborsi. Quando un collaboratore conferma la partecipazione all'evento (con luogo di destinazione), può spuntare la voce "auto a disposizione". Il sistema calcola in automatico la distanza fino a quel luogo a partire dal punto di ritrovo (la sede dell'allenamento o altro da impostare). Nella sezione dei documenti si può implementare un template che fa questo: l'ASD attesta che il tesserato ha partecipato alle seguenti attività: NOME | DATA | DISTANZA DAL PUNTO DI RITROVO. Il totale dei km percorsi è di TOTALE_KM_X2 + altro testo per concludere.
 
+### Social media kit per le partite di calcio
+Unendo il generatore di template e il team grafico, con un generatore di template Golee può avere una pubblicità costante ed essere visibile da tantissime società. Le grafiche più utilizzate sono MATCH DAY, CONVOCATI (oppure Starting 11 + Panchina), RISULTATO FINALE. Ogni settimana la società ospite la condivide e viene sicuramente vista dalla società avversaria: ogni settimana pubblicità gratuita per Golee e soldi risparmiati dalle società che pagano i social media manager.
+
+### API Golee (ovviamente gratis)
+Per Telegram e implementazioni con altri servizi
+
+
+
+
